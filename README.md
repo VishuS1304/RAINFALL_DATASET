@@ -1,7 +1,5 @@
 # RAINFALL_Prediciton
 
-![Rainfall Prediction](rainfall_prediction.jpg)
-
 Welcome to the Rainfall Prediction repository! This project focuses on developing a machine learning model to predict rainfall patterns in a given area based on historical weather data. Accurate rainfall prediction is crucial for various sectors such as agriculture, water resource management, and disaster preparedness.
 
 ## Table of Contents
